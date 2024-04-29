@@ -2,48 +2,10 @@
     {
         "id": 1,
         "title": "پێشەکییەک بۆ ئارچ لینوکس",
-        "description": "Arch Linux is a lightweight and highly customizable Linux distribution known for its simplicity, flexibility, and adherence to the "Keep It Simple, Stupid" (KISS) principle. It's designed to be as minimalistic as possible, providing users with a base system upon which they can build their own customized environment tailored to their specific needs. Here's a comprehensive introduction to Arch Linux, covering its history, philosophy, features, installation process, package management, and community support:
-
-### History:
-Arch Linux was created by Judd Vinet in 2002 as a lightweight and simple alternative to existing Linux distributions. Vinet aimed to build a distribution that adhered to the principles of simplicity, elegance, and user-centric design. Arch Linux started as a personal project but quickly gained popularity within the Linux community due to its minimalist approach and rolling-release model.
-
-### Philosophy:
-Arch Linux is guided by several core principles:
-1. **Simplicity:** Arch Linux aims to be simple and straightforward, avoiding unnecessary complexities and bloat.
-2. **User-Centric Design:** The distribution prioritizes user control and customization, providing users with the tools and flexibility to build their own systems.
-3. **Pragmatism:** Arch Linux embraces pragmatic solutions, favoring functionality and efficiency over aesthetics or convenience.
-4. **Keep It Simple, Stupid (KISS):** This principle emphasizes simplicity in design and implementation, encouraging minimalism and avoiding unnecessary complexity.
-
-### Features:
-1. **Rolling Release Model:** Arch Linux follows a rolling release model, meaning that software updates are continuously released rather than being tied to specific version releases. This ensures users have access to the latest software and updates without the need for manual upgrades or reinstallations.
-2. **Package Management:** Arch Linux uses the Pacman package manager for package installation, removal, and system upgrades. Pacman is simple, fast, and efficient, with a focus on stability and reliability.
-3. **Customization:** Arch Linux provides users with a minimal base system, allowing them to customize and build their own desktop environment, software stack, and system configuration according to their preferences.
-4. **AUR (Arch User Repository):** The AUR is a community-driven repository that hosts user-contributed packages not available in the official repositories. It enables users to access a vast collection of software packages and utilities, further extending the customization options of Arch Linux.
-5. **Documentation:** Arch Linux boasts comprehensive documentation, including the Arch Wiki, which provides detailed guides, tutorials, and troubleshooting tips for users at all levels of expertise.
-
-### Installation Process:
-Installing Arch Linux involves a manual process that requires users to partition their disks, install the base system, configure the bootloader, and set up essential system components. The installation process is well-documented on the Arch Wiki and typically involves the following steps:
-1. **Prepare Installation Media:** Download the Arch Linux ISO image and create a bootable USB drive or CD/DVD.
-2. **Boot into the Live Environment:** Boot your computer from the installation media to access the Arch Linux live environment.
-3. **Partition Disks:** Use tools like fdisk or parted to partition your disks according to your requirements.
-4. **Format Partitions:** Format the partitions with the appropriate filesystems (e.g., ext4).
-5. **Install the Base System:** Use the Pacstrap script to install the base Arch Linux system onto your partitions.
-6. **Configure the System:** Set up essential configurations such as timezone, locale, hostname, network, and users.
-7. **Install a Bootloader:** Install and configure a bootloader such as GRUB or systemd-boot to boot into your Arch Linux system.
-8. **Reboot:** Exit the live environment, remove the installation media, and reboot your computer into your newly installed Arch Linux system.
-
-### Package Management:
-Arch Linux uses the Pacman package manager for package management. Pacman provides simple command-line tools for installing, removing, and upgrading packages, as well as querying package databases and resolving dependencies. Common Pacman commands include:
-- `pacman -Syu`: Synchronize package databases and upgrade installed packages.
-- `pacman -S package_name`: Install a package from the official repositories.
-- `pacman -Rs package_name`: Remove a package and its dependencies.
-- `pacman -Q package_name`: Query information about a package.
-- `pacman -Ss search_term`: Search for packages in the repositories.
-
-### Community Support:
-Arch Linux benefits from a vibrant and active community of users and developers who contribute to its development, maintenance, and support. The Arch Linux Forums and IRC channels provide avenues for users to seek assistance, share knowledge, and engage with the community. Additionally, the Arch Wiki serves as a comprehensive resource for documentation, tutorials, and troubleshooting guides.
-
-In summary, Arch Linux offers a lightweight, minimalist, and highly customizable Linux distribution that prioritizes simplicity, flexibility, and user control. Its rolling release model, efficient package management system, extensive customization options, and dedicated community make it an attractive choice for users seeking a tailored and personalized Linux experience.",
+        "description": "{
+  "description": "Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. It has a strong focus on elegance, code correctness, minimalism, and simplicity. Arch Linux follows the rolling-release model, which means users receive regular updates that include the latest features and security patches.\n\n<strong>Key Features:</strong>\n- Pacman package manager\n- Arch User Repository (AUR)\n- Simple and well-documented installation process\n- Rolling-release model\n- Highly customizable\n- Lightweight and minimalistic\n- Strong community support"
+}
+",
         "image": "linux-command-line.jpg"
     },
     {
