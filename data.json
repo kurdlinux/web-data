@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Introduction to Arch Linux",
+        "title": "پێشەکییەک بۆ ئارچ لینوکس",
         "description": "Learn the basics of Arch Linux, a lightweight and flexible Linux distribution.",
         "image": "linux-command-line.jpg"
     },
