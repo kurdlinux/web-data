@@ -2,7 +2,6 @@
     {
         "id": 1,
         "title": "پێشەکییەک بۆ ئارچ لینوکس",
-{
   "description": "Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. It has a strong focus on elegance, code correctness, minimalism, and simplicity. Arch Linux follows the rolling-release model, which means users receive regular updates that include the latest features and security patches.\n\n<strong>Key Features:</strong>\n- Pacman package manager\n- Arch User Repository (AUR)\n- Simple and well-documented installation process\n- Rolling-release model\n- Highly customizable\n- Lightweight and minimalistic\n- Strong community support",
         
         "image": "linux-command-line.jpg"
